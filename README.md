@@ -24,34 +24,42 @@ Project consists of a creating a Device Configuration Profile with Intune as a p
 <h3>Steps: </h3>
 
 1.  Go to Microsoft Purview Compliance portal --> go to eDiscovery 
-2.	Select Standard eDiscovery --> create a case --> name it --> save
-3.	Go to ‘hold’ tab -->  + create -> name it --> next
-4.	Choose locations (Email, SharePoint, Teams)
-5.	Query section --> keywords ‘Stock’ 
-6.	Review settings --> create
+2.  Select Standard eDiscovery --> create a case --> name it --> save
+3.  Go to ‘hold’ tab -->  + create -> name it --> next
+4.  Choose locations (Email, SharePoint, Teams)
+5.  Query section --> keywords ‘Stock’ 
+6.  Review settings --> create
 
 	
 <h3>Screenshots:</h3>
 
 <p align="center">
-Create Configuration Profile <br/>
-<img src="configuration profiles.png" height="50%" width="50%" />
+Purview Portal & eDiscovery Standard:  <br/>
+<img src="eDiscovery.png" height="50%" width="50%" />
 <br />
 <br />
-Give Name: <br/>
-<img src="name.png" height="50%" width="50%" />
+Create New & Give Name: <br/>
+<img src="new case.png" height="50%" width="50%" />
 <br />
 <br />
-Configuration Settings: <br/>
-<img src="configure.png" height="50%" width="50%"/>
+Check active status & go to hold tab: <br/>
+<img src="active status of case.png" height="50%" width="50%"/>
 <br />
 <br />
-Review & Create: <br/>
-<img src="review creae.png" height="65%" width="50%"/>
+Choose Locations: <br/>
+<img src="locations.png" height="65%" width="50%"/>
+<br />
+<br />
+Query Section: <br/>
+<img src="query.png" height="65%" width="50%"/>
+<br />
+<br />
+Review & Submit: <br/>
+<img src="review.png" height="65%" width="50%"/>
 <br />
 <br />
 Result: <br/>
-<img src="res.png" height="65%" width="50%"/>
+<img src="result.png" height="65%" width="50%"/>
 <br />
 <br />
 
