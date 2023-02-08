@@ -2,8 +2,7 @@
 Perform an eDiscovery hold on Teams/SharePoint/Exchange content containing the keyword "Stock"
 
 <h2>Description</h2>
-Project consists of a creating a Device Configuration Profile with Intune as a part of Mobile Device Management. Microsoft Intune includes settings and features you can enable or disable on different devices within your organization. These settings and features are added to "configuration profiles". You can create profiles for different devices and different platforms, including iOS/iPadOS, Android device administrator, Android Enterprise, and Windows. Then, use Intune to apply or "assign" the profile to the devices. As part of this project we will Block Personalization Sales group and exclude Marketing group.
-
+Lab consists of a create and perform an eDiscovery hold for Content Search by using Compliance Purview Portal. Microsoft Purview eDiscovery (Standard) in Microsoft Purview provides a basic eDiscovery tool that organizations can use to search and export content in Microsoft 365 and Office 365.  can also use eDiscovery (Standard) to place an eDiscovery hold on content locations, such as Exchange mailboxes, SharePoint sites, OneDrive accounts, and Microsoft Teams.
 <br />
 
 
@@ -14,10 +13,12 @@ Project consists of a creating a Device Configuration Profile with Intune as a p
 <h2>Prerequisites</h2>
 
 -<b> Configuration Profile can be created or modified by anyone assigned the following roles:
- - Intune administrator
+ - eDiscovery Manager
+ - eDiscovery Administrator
+ - Case Management
  - Global Administrator
  </b>
-- <b> Licenses:  EMS E3/E5 or Microsoft 365 F1/F3/E3/E5 license</b>
+- <b> Licenses: Exchange online Plan 2 or  Microsoft 365 E3 OR Office 365 E3 license or higher OR Office 365 E1 license with a SharePoint Online Plan 2 OR OneDrive for Business Plan 2 add-on license</b>
 
 <h2>Program walk-through:</h2>
 
