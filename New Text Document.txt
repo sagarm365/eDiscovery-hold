@@ -1,0 +1,8 @@
+Perform an eDiscovery hold on Teams/SharePoint/Exchange content containing the keyword "Stock"
+Steps:
+1.	Go to Microsoft Purview Compliance portal-> go to eDiscovery 
+2.	Select Standard eDiscovery create a case  name it  save
+3.	Go to ‘hold’ tab   + create -> name it  next
+4.	Choose locations (Email, SharePoint, Teams)
+5.	Query section  keywords ‘Stock’ 
+6.	Review settings  create
